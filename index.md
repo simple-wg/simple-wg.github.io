@@ -12,7 +12,7 @@
 ##### Full stack software engineer
 
 #### Hyein Kook (hkook@ttu.edu)
-##### Full stac software engineer
+##### Full stack software engineer
 
 ## Team Schedule
 
