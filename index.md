@@ -1,4 +1,5 @@
 ### simple-wg project
+[Jira link](https://ttu-projecttunnel.atlassian.net/jira/your-work)
 
 ## Team Members
 
