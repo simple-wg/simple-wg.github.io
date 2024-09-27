@@ -1,19 +1,20 @@
 ### simple-wg project
 [Jira link](https://ttu-projecttunnel.atlassian.net/jira/your-work)
+[Github link](https://github.com/simple-wg/simple-wg.github.io/)
 
 ## Team Members
 
 ### Chris Hammel (chammel@ttu.edu)
-#### Team Leader and Software Engineer
+#### Team Leader and Back-end developer
 
 ### Jason Tran (jasotran@ttu.edu)
-#### Full stack software engineer
+#### Back-end developer
 
 ### Samuel Alves (saalves@ttu.edu)
-#### Full stack software engineer
+#### Front-end developer
 
 ### Hyein Kook (hkook@ttu.edu)
-#### Full stack software engineer
+#### Front-end developer
 
 ## Team Schedule
 
