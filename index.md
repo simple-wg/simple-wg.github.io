@@ -1,6 +1,9 @@
 ### simple-wg project
-[Jira link](https://ttu-projecttunnel.atlassian.net/jira/your-work)
+[Jira link](https://ttu-projecttunnel.atlassian.net/jira/your-work)  
 [Github link](https://github.com/simple-wg/simple-wg.github.io/)
+
+## Project Demo Video
+[Watch Demo Video](./simple-wg-demo.mp4)
 
 ## Team Members
 
