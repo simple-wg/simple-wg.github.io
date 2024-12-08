@@ -3,7 +3,8 @@
 [Github link](https://github.com/simple-wg/simple-wg.github.io/)
 
 ## Project Demo Video
-[Watch Demo Video](./simple-wg-demo.mp4)
+[Watch First Demo Video](./simple-wg-demo.mp4)
+[Watch Final Demo Video](./final_demo.mp4)
 
 ## Team Members
 
